@@ -1,3 +1,5 @@
+repository: andrewgrossi/andrewgrossi.github.io
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
